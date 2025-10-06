@@ -5,8 +5,8 @@
 - [X] Collegare ogni LED a un **pin digitale** con resistenza da **220 Ω** in serie.  
 - [X] Scrivere uno **sketch Arduino base** per accendere i LED (test locale).  
 - [ ] Configurare l’**Arduino Uno R4 WiFi** come **Access Point Wi-Fi** oppure come **client** della rete del Raspberry Pi.  
-- [ ] Configurare il **Raspberry Pi** (Python, librerie: `socket`, `numpy`, `matplotlib`).  
-- [ ] Testare la comunicazione **wireless Raspberry ↔ Arduino** inviando un comando semplice (`G1`, `G2`) per accendere un LED rosso o verde.  
+- [X] Configurare il **Raspberry Pi** (Python, librerie: `socket`, `numpy`, `matplotlib`).  
+- [X] Testare la comunicazione **wireless Raspberry ↔ Arduino** inviando un comando semplice (`G1`, `G2`) per accendere un LED rosso o verde.  
 
 ## Giorno 2 – Modellazione del problema
 - [ ] Studiare e semplificare il modello MDP dal PDF.
