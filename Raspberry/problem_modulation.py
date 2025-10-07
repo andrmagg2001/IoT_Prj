@@ -1,3 +1,6 @@
+import random
+
+
 MAX_CARS    = 10
 THRESHOLD   = (3, 7)
 
@@ -57,8 +60,6 @@ def apply_step(n1: int, n2: int, action: int, max_cars: int = MAX_CARS) -> tuple
       - The other road receives 0 to 2 new cars.
     Always applies the limits [0, max_cars].
     """
-    import random
-
     if action == 0:  
         n1 = clamp_cars(n1 - random.randint(1, 3), max_cars)
         n2 = clamp_cars(n2 + random.randint(0, 2), max_cars)
