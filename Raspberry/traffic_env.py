@@ -9,7 +9,7 @@ class TrafficEnv:
     Manages the state (n1, n2, phase), applies actions, and computes rewards.
     """
 
-    def __init__(self, n1 : int, n2 : int, phase : str) -> None:
+    def __init__(self) -> None:
         """
         Initialize environment with random starting values.
 

@@ -19,9 +19,9 @@
 
 ## Giorno 3 – Simulazione software su Raspberry
 
-- [ ] Implementare simulatore in Python del traffico (generazione auto casuale, passaggio auto).
-- [ ] Implementare algoritmo di ottimizzazione (es. Value Iteration o Q-Learning).
-- [ ] Eseguire test di simulazione solo su Raspberry (senza Arduino).
+- [X] Implementare simulatore in Python del traffico (generazione auto casuale, passaggio auto).
+- [X] Implementare algoritmo di ottimizzazione (es. Value Iteration o Q-Learning).
+- [X] Eseguire test di simulazione solo su Raspberry (senza Arduino).
 - [ ] Salvare log dei risultati (reward cumulativo, stato traffico).
 
 ## Giorno 4 – Integrazione Raspberry ↔ Arduino

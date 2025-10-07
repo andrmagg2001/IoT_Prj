@@ -1,2 +1,3 @@
 .DS*
 *pdf
+*__pycache__*
