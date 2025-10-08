@@ -22,13 +22,13 @@
 - [X] Implementare simulatore in Python del traffico (generazione auto casuale, passaggio auto).
 - [X] Implementare algoritmo di ottimizzazione (es. Value Iteration o Q-Learning).
 - [X] Eseguire test di simulazione solo su Raspberry (senza Arduino).
-- [ ] Salvare log dei risultati (reward cumulativo, stato traffico).
+- [X] Salvare log dei risultati (reward cumulativo, stato traffico).
 
 ## Giorno 4 – Integrazione Raspberry ↔ Arduino
 
-- [ ] Scrivere sketch Arduino che riceve comandi (`G1`, `G2`) via seriale e accende i LED.
-- [ ] Modificare codice Raspberry per inviare la decisione ottimale ad Arduino.
-- [ ] Testare flusso completo: simulazione → decisione → LED.
+- [X] Scrivere sketch Arduino che riceve comandi (`G1`, `G2`) via seriale e accende i LED.
+- [X] Modificare codice Raspberry per inviare la decisione ottimale ad Arduino.
+- [X] Testare flusso completo: simulazione → decisione → LED.
 
 ## Giorno 5 – Visualizzazione e debugging
 
@@ -46,7 +46,6 @@
 ## Giorno 7 – Rifinitura e report
 
 - [ ] Pulire codice e creare repository GitHub.
-- [ ] Scrivere README con istruzioni (installazione, schema hardware, esecuzione).
 - [ ] Preparare mini demo (video o gif: semaforo che reagisce al traffico).
 - [ ] Redigere breve relazione per la prof:
   - Obiettivi
