@@ -32,16 +32,15 @@
 
 ## Giorno 5 – Visualizzazione e debugging
 
-- [ ] Aggiungere grafici in Python (matplotlib) per visualizzare l’andamento del traffico.
-- [ ] Debug: verificare che i LED seguano correttamente la politica calcolata.
-- [ ] Salvare i risultati delle simulazioni (file CSV/JSON).
+- [X] Aggiungere grafici in Python (matplotlib) per visualizzare l’andamento del traffico.
+- [X] Debug: verificare che i LED seguano correttamente la politica calcolata.
+- [X] Salvare i risultati delle simulazioni (file CSV/JSON).
 
-## Giorno 6 – Modulo video (opzionale/extra)
+## Giorno 6 – Estensione simulazione (senza webcam)
 
-- [ ] Collegare webcam al Raspberry.
-- [ ] Usare OpenCV per contare auto (anche semplificato, es. movimento/contorno).
-- [ ] Sostituire i dati random con input dal video.
-- [ ] Collegare conteggio reale al modello MDP.
+- [ ] Migliorare il realismo della simulazione (ad esempio traffico variabile o cicli casuali).
+- [ ] Eseguire test estesi con Q-table addestrata.
+- [ ] Analizzare i risultati con grafici e medie sulle performance.
 
 ## Giorno 7 – Rifinitura e report
 
