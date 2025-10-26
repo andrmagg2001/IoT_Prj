@@ -63,6 +63,8 @@ The Raspberry Pi performs **inference** (object classification → vehicle count
 ## Arduino Part
 [Code of Arduino Part](Arduino/Setup_Arduino/Setup_Arduino.ino)
 
+![Arduino1](images/Arduino1.jpg)
+![Arduino2](images/Arduino2.jpg)
 
 ## Raspberry Part
 
